@@ -1,3 +1,5 @@
+# So apparently it looks like the Scratch project effects don't work if you don't have the images in the right place. Oops :(
+
 Dump for image effects I make using [ShareX](https://getsharex.com).
 
 ---
